@@ -30,7 +30,7 @@ Ancak, şu ana kadar profesyonel bir iş tecrübem bulunmamaktadır. Bu noktada,
  Sertifikalar almak, beni sürekli olarak daha iyi bir geliştirici yapma hedefimde önemli bir yer tutuyor.
 
 Proje geliştirmenin dışında, boş zamanlarımda gitar ve piyano çalarken, çeşitli kitaplar okumayı da seviyorum. 
-Yabancı kitapları çevirir ya da PDF bulur, özellikle "Clean Architecture" ve "Clean Code" gibi  litaplarda teknik konularda derinleşirim.
+Yabancı kitapları çevirir ya da PDF bulur, özellikle "Clean Architecture" ve "Clean Code" gibi  kitaplarda teknik konularda derinleşirim.
 Şu anda üzerinde çalıştığım iki kitap projem var; biri teknolojinin insanlara etkisiyle ilgili, diğeri ise genel bir temaya odaklanıyor.
 
 Dil öğrenmek de hobilerim arasında. Temel seviyede Almanca ve orta seviyede İngilizce biliyorum, eksiklerimi tamamlamak için çaba harcıyorum.
