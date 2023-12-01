@@ -1,0 +1,27 @@
+Mezun olduğum Aydın Adnan Menderes Üniversitesi'nde Bilgisayar Programcılığı eğitimi aldım ve 2019'da mezun oldum.
+Yazılım alanında güçlü bir temele sahip olmakla birlikte, aynı zamanda grafik tasarım ve animasyon üzerinde de çalışarak çeşitli projeler geliştirdim.
+
+Eğitim ve Dersler
+Üniversite eğitimim boyunca:
+
+-Grafik Animasyon Dersleri: Görsel tasarım ve animasyon konularında derinleştim.
+-Backend SQL ve C# Dersi: Veritabanları, C# programlama ve mobil programlama dili ve backend geliştirme konularında temel bilgiler edindim.
+-HTML, CSS, Bootstrap: Front-end teknolojilerini öğrenerek web geliştirmeye olan ilgimi artırdım.
+
+
+Yazılım Yolculuğum
+Yazılım ağırlıklı bir ilerleme sağlıyorum ve şu alanlarda kendimi geliştirmek istiyorum:
+Full Stack Developer Olma Yolunda:
+Hem front-end hem de back-end teknolojilerinde kendimi geliştirerek Full Stack Developer olma hedefim var.
+
+Angular, .Net Core, Asp.Net:
+Angular ile modern front-end geliştirmeyi, .Net Core ve Asp.Net üzerinde ise güçlü back-end projeleri oluşturmayı hedefliyorum.
+
+
+Projeler ve Deneyim
+Üniversite eğitimim süresince grafik tasarım ve yazılım alanında birçok proje geliştirdim.
+Ancak, şu ana kadar profesyonel bir iş tecrübem bulunmamaktadır. Bu noktada, gerçek dünya projelerinde deneyim kazanmayı hedefliyorum.
+
+İletişim
+📧 E-posta: ipeknurgunumdogdu@gmail.com
+   instagram: @devcraftipek
